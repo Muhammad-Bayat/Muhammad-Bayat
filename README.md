@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad.
-- 👀 I’m interested in new challanges
+- 👀 I’m interested in new challanges.
 - 🌱 I’m currently learning Advanced content in computer science and programming.
 - 📫 How to reach me :  muhammad_bayat@yahoo.com
 
